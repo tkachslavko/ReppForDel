@@ -1,0 +1,12 @@
+c:\users\tkach_sv\documents\visual studio 2013\Projects\ToCheckEpamTest\ToCheckEpamTest\bin\Debug\ToCheckEpamTest.exe.config
+c:\users\tkach_sv\documents\visual studio 2013\Projects\ToCheckEpamTest\ToCheckEpamTest\bin\Debug\ToCheckEpamTest.exe
+c:\users\tkach_sv\documents\visual studio 2013\Projects\ToCheckEpamTest\ToCheckEpamTest\bin\Debug\ToCheckEpamTest.pdb
+c:\users\tkach_sv\documents\visual studio 2013\Projects\ToCheckEpamTest\ToCheckEpamTest\obj\Debug\ToCheckEpamTest.csprojResolveAssemblyReference.cache
+c:\users\tkach_sv\documents\visual studio 2013\Projects\ToCheckEpamTest\ToCheckEpamTest\obj\Debug\ToCheckEpamTest.exe
+c:\users\tkach_sv\documents\visual studio 2013\Projects\ToCheckEpamTest\ToCheckEpamTest\obj\Debug\ToCheckEpamTest.pdb
+C:\GitRepp\ToCheckEpamTest\ToCheckEpamTest\bin\Debug\ToCheckEpamTest.exe.config
+C:\GitRepp\ToCheckEpamTest\ToCheckEpamTest\obj\Debug\ToCheckEpamTest.exe
+C:\GitRepp\ToCheckEpamTest\ToCheckEpamTest\obj\Debug\ToCheckEpamTest.pdb
+C:\GitRepp\ToCheckEpamTest\ToCheckEpamTest\bin\Debug\ToCheckEpamTest.exe
+C:\GitRepp\ToCheckEpamTest\ToCheckEpamTest\bin\Debug\ToCheckEpamTest.pdb
+C:\GitRepp\ToCheckEpamTest\ToCheckEpamTest\obj\Debug\ToCheckEpamTest.csprojResolveAssemblyReference.cache
