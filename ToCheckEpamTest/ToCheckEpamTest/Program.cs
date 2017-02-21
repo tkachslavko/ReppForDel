@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using System.Threading;
 
 //Now I wil try to add anotetion to this project
+//One more comment
 namespace ToCheckEpamTest
 {
     class Program
